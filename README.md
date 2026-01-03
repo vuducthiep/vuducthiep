@@ -15,13 +15,29 @@ Passionate about web development, focusing on building clean and efficient appli
 [![Database](https://skillicons.dev/icons?i=mysql,postgres&perline=4&theme=dark)](https://skillicons.dev)
 
 #### 🛠️ Tools & Others
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,intellij,postman&perline=5&theme=dark)](https://skillicons.dev)
 
 ### 🌱 Currently Learning & Improving
 - Advanced React & TypeScript patterns
 - Spring Boot backend architecture
 - Database design and optimization
 - Clean Code, Testing, and Git best practices
+
+### 🔭 Featured Projects
+
+- **[ShopAOV](https://github.com/vuducthiep/ShopAOV)**  
+  A modern e-commerce web application built with React + Vite and Tailwind CSS. Features responsive UI and fast development setup.
+
+- **[StyleStore](https://github.com/vuducthiep/StyleStore)**  
+  Full-stack fashion store application with separate Frontend (TypeScript) and Backend (Java/Spring Boot) modules.
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=vuducthiep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuducthiep&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vuducthiep&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 ### 📫 Connect with Me
 - GitHub: [@vuducthiep](https://github.com/vuducthiep)
