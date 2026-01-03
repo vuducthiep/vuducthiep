@@ -9,7 +9,7 @@ Passionate about web development, focusing on building clean and efficient appli
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react&perline=6)](https://skillicons.dev)
 
 #### 🖥️ Backend
-[![Backend](https://skillicons.dev/icons?java,spring&perline=2)](https://skillicons.dev)
+[![Backend]([https://skillicons.dev/icons?java,spring&perline=2)](https://skillicons.dev](https://skillicons.dev/icons?i=java,spring))
 
 #### 🗄️ Database
 [![Database](https://skillicons.dev/icons?i=mysql,postgres&perline=4)](https://skillicons.dev)
