@@ -15,7 +15,7 @@ Passionate about web development, focusing on building clean and efficient appli
 [![Database](https://skillicons.dev/icons?i=mysql,postgres&perline=4&theme=dark)](https://skillicons.dev)
 
 #### 🛠️ Tools & Others
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,intellij,postman&perline=5&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4&theme=dark)](https://skillicons.dev)
 
 ### 🌱 Currently Learning & Improving
 - Advanced React & TypeScript patterns
