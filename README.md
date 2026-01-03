@@ -9,17 +9,17 @@ Passionate about web development, focusing on building clean and efficient appli
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react&perline=6&theme=dark)](https://skillicons.dev)
 
 #### 🖥️ Backend
-[![Backend](https://skillicons.dev/icons?i=java,spring,nodejs,cpp&perline=4&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=java,spring&perline=4&theme=dark)](https://skillicons.dev)
 
 #### 🗄️ Database
 [![Database](https://skillicons.dev/icons?i=mysql,postgres&perline=4&theme=dark)](https://skillicons.dev)
 
 #### 🛠️ Tools & Others
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode&perline=6&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,intellij,postman&perline=5&theme=dark)](https://skillicons.dev)
 
 ### 🌱 Currently Learning & Improving
 - Advanced React & TypeScript patterns
-- Spring Boot and Node.js backend architecture
+- Spring Boot backend architecture
 - Database design and optimization
 - Clean Code, Testing, and Git best practices
 
