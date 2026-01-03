@@ -6,22 +6,30 @@ Passionate about web development, focusing on building clean and efficient appli
 ### 🛠️ Tech Stack
 
 #### 🌐 Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react&perline=6)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react&perline=6&theme=dark)](https://skillicons.dev)
 
 #### 🖥️ Backend
-[![Backend]([https://skillicons.dev/icons?java,spring&perline=2)](https://skillicons.dev](https://skillicons.dev/icons?i=java,spring))
+[![Backend](https://skillicons.dev/icons?i=java,spring,nodejs,cpp&perline=4&theme=dark)](https://skillicons.dev)
 
 #### 🗄️ Database
-[![Database](https://skillicons.dev/icons?i=mysql,postgres&perline=4)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mysql,postgres&perline=4&theme=dark)](https://skillicons.dev)
 
 #### 🛠️ Tools & Others
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode&perline=6)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode&perline=6&theme=dark)](https://skillicons.dev)
 
 ### 🌱 Currently Learning & Improving
 - Advanced React & TypeScript patterns
 - Spring Boot and Node.js backend architecture
 - Database design and optimization
 - Clean Code, Testing, and Git best practices
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=vuducthiep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuducthiep&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vuducthiep&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 ### 📫 Connect with Me
 - GitHub: [@vuducthiep](https://github.com/vuducthiep)
