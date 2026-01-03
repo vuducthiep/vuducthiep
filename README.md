@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vũ Đức Thiệp
 
-**Aspiring Full-Stack Developer (Intern Level)**  
+**Full-Stack Developer (Intern Level) – Stronger in Backend**
 Passionate about web development, focusing on building clean and efficient applications from frontend to backend. Eager to learn and contribute to real-world projects.
 
 ### 🛠️ Tech Stack
@@ -33,9 +33,9 @@ Passionate about web development, focusing on building clean and efficient appli
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=vuducthiep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.anuraghazra.io/api?username=vuducthiep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuducthiep&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.anuraghazra.io/api/top-langs/?username=vuducthiep&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vuducthiep&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
