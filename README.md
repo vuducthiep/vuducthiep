@@ -33,11 +33,7 @@ Passionate about web development, focusing on building clean and efficient appli
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.anuraghazra.io/api?username=vuducthiep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.anuraghazra.io/api/top-langs/?username=vuducthiep&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vuducthiep&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+<img src="https://github-readme-stats-nine-hazel-43.vercel.app/api?username=vuducthiep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
 ### 📫 Connect with Me
 - GitHub: [@vuducthiep](https://github.com/vuducthiep)
