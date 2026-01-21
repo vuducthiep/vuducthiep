@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vũ Đức Thiệp
 
-**Frontend and Backend Developer (Intern Level) – Stronger in Backend**
+**Backend Developer (Intern Level)**
 
 Passionate about web development, focusing on building clean and efficient applications from frontend to backend. Eager to learn and contribute to real-world projects.
 
