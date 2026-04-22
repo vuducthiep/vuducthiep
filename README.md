@@ -37,7 +37,6 @@ Passionate about web development, focusing on building clean and efficient appli
 <img src="https://github-readme-stats-nine-hazel-43.vercel.app/api/top-langs/?username=vuducthiep&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 ### 📫 Connect with Me
-- GitHub: [@vuducthiep](https://github.com/vuducthiep)
 - Facebook: [vdthiep](https://www.facebook.com/vdthiep)
 
 Thanks for visiting! Always open to feedback and internship opportunities 🚀
